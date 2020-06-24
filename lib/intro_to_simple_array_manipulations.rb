@@ -10,6 +10,7 @@ def using_pop(array)
   array.pop
 end
 
+<<<<<<< HEAD
 def pop_with_args(array)
   array.pop(2)
 end
@@ -21,3 +22,5 @@ end
 def shift_with_args(array)
   array.shift(2)
 end
+=======
+>>>>>>> b1c552a3966ab6695aebd6caf7ecc83d5a16bd61
